@@ -1,0 +1,24 @@
+{
+  "name": "react-native-arabic-numbers",
+  "version": "1.0.0",
+  "description": "This is a number converter which convert English numbers to Arabic numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maddumage/react-native-arabic-numbers.git"
+  },
+  "keywords": [
+    "npm",
+    "react-native",
+    "react-native-arabic-numbers",
+    "arabic-numbers",
+    "arabic",
+    "number",
+    "react-native-numbers"
+  ],
+  "author": "Roshan Maddumage",
+  "license": "ISC"
+}
