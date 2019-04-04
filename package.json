@@ -20,5 +20,8 @@
     "react-native-numbers"
   ],
   "author": "Roshan Maddumage",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.53.1"
+  }
 }
