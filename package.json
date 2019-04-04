@@ -1,6 +1,6 @@
 {
   "name": "react-native-arabic-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a number converter which convert English numbers to Arabic numbers",
   "main": "index.js",
   "scripts": {
